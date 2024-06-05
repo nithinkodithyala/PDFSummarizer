@@ -23,3 +23,5 @@ Time Savings: Our PDF Summarizer helps users quickly grasp the core content of P
 Improved Decision-Making: By providing succinct summaries, our tool empowers users to make informed decisions, identify relevant insights, and prioritize their attention on critical aspects of the document.
 
 Enhanced Accessibility: The summarization feature enhances accessibility by making complex information more accessible to a wider audience, including individuals with limited time or those seeking rapid comprehension.
+
+# Visit https://huggingface.co/spaces/nithin093/NithinTextSum 
